@@ -1,0 +1,16 @@
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.exe
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.deps.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.runtimeconfig.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.runtimeconfig.dev.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.AssemblyInfoInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.AssemblyInfo.cs
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\refint\MeuPrimeiroCodigo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.genruntimeconfig.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\ref\MeuPrimeiroCodigo.dll
