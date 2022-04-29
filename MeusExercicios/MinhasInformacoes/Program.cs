@@ -11,6 +11,9 @@ namespace MinhasInformacoes
             int idade;
             double altura;
             double peso;
+            string linhaDigitada;
+
+            linhaDigitada = Console.ReadLine();
 
             nome = Console.ReadLine();
 
