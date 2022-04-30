@@ -1,0 +1,16 @@
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.exe
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.deps.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.runtimeconfig.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.runtimeconfig.dev.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\bin\Debug\net5.0\SomaSimples.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.csproj.AssemblyReference.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.AssemblyInfo.cs
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\refint\SomaSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\SomaSimples.genruntimeconfig.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\SomaSimples\obj\Debug\net5.0\ref\SomaSimples.dll

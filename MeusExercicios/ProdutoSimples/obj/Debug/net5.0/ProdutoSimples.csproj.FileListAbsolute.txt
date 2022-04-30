@@ -1,0 +1,16 @@
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.exe
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.deps.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.runtimeconfig.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.runtimeconfig.dev.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\bin\Debug\net5.0\ProdutoSimples.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.csproj.AssemblyReference.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.AssemblyInfoInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.AssemblyInfo.cs
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\refint\ProdutoSimples.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ProdutoSimples.genruntimeconfig.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\ProdutoSimples\obj\Debug\net5.0\ref\ProdutoSimples.dll

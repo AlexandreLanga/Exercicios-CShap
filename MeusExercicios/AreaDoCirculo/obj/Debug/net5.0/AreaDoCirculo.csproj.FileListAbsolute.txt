@@ -1,0 +1,16 @@
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.exe
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.deps.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.runtimeconfig.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.runtimeconfig.dev.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\bin\Debug\net5.0\AreaDoCirculo.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.csproj.AssemblyReference.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.AssemblyInfo.cs
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\refint\AreaDoCirculo.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\AreaDoCirculo.genruntimeconfig.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\AreaDoCirculo\obj\Debug\net5.0\ref\AreaDoCirculo.dll

@@ -1,0 +1,16 @@
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.exe
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.deps.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.runtimeconfig.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.runtimeconfig.dev.json
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\bin\Debug\net5.0\Media1.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.csproj.AssemblyReference.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.AssemblyInfoInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.AssemblyInfo.cs
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\refint\Media1.dll
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.pdb
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\Media1.genruntimeconfig.cache
+C:\Users\alexandre.goldoni\Exerc-cios-CShap\MeusExercicios\Media1\obj\Debug\net5.0\ref\Media1.dll
