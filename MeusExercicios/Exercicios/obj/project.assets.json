@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alexandre.goldoni\\.nuget\\packages\\": {},
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexandre.goldoni\\Exerc-cios-CShap\\MeusExercicios\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Exercicios-CShap\\MeusExercicios\\Exercicios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\alexandre.goldoni\\Exerc-cios-CShap\\MeusExercicios\\Exercicios\\Exercicios.csproj",
-      "packagesPath": "C:\\Users\\alexandre.goldoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandre.goldoni\\Exerc-cios-CShap\\MeusExercicios\\Exercicios\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Exercicios-CShap\\MeusExercicios\\Exercicios\\Exercicios.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Exercicios-CShap\\MeusExercicios\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alexandre.goldoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

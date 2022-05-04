@@ -1,0 +1,16 @@
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.exe
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.deps.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.runtimeconfig.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.runtimeconfig.dev.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\bin\Debug\net5.0\DDD.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.csproj.AssemblyReference.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.AssemblyInfoInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.AssemblyInfo.cs
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.csproj.CoreCompileInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\refint\DDD.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\DDD.genruntimeconfig.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\DDD\obj\Debug\net5.0\ref\DDD.dll

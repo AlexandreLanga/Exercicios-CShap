@@ -1,0 +1,5 @@
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.AssemblyReference.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfo.cs
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
