@@ -1,0 +1,16 @@
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.exe
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.deps.json
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.runtimeconfig.json
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.runtimeconfig.dev.json
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.dll
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\bin\Debug\net5.0\NumeroPrimo.pdb
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.AssemblyInfo.cs
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.dll
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\refint\NumeroPrimo.dll
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.pdb
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\NumeroPrimo.genruntimeconfig.cache
+C:\Users\guest03\Documents\Exercicios-CShap\MeusExercicios\NumeroPrimo\obj\Debug\net5.0\ref\NumeroPrimo.dll
