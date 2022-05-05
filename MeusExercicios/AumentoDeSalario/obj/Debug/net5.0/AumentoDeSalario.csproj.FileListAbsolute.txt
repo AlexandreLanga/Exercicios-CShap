@@ -3,3 +3,14 @@ C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\Au
 C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfoInputs.cache
 C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfo.cs
 C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.exe
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.deps.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.dev.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\refint\AumentoDeSalario.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.genruntimeconfig.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\AumentoDeSalario\obj\Debug\net5.0\ref\AumentoDeSalario.dll
