@@ -13,7 +13,7 @@ namespace Intervalo
 
             if (0 <= valor && valor <= 25)
             {
-                Console.WriteLine("Intervalo (0, 25]");
+                Console.WriteLine("Intervalo [0, 25]");
             }
 
             else if (25 < valor && valor <= 50)
