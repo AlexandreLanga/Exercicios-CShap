@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\bin\Debug\net5.0\PIPN.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\refint\PIPN.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\PIPN.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PIPN\obj\Debug\net5.0\ref\PIPN.dll

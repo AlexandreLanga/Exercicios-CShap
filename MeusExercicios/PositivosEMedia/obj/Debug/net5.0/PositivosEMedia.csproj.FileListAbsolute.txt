@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\bin\Debug\net5.0\PositivosEMedia.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\refint\PositivosEMedia.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\PositivosEMedia.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PositivosEMedia\obj\Debug\net5.0\ref\PositivosEMedia.dll

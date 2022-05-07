@@ -5,9 +5,9 @@ namespace AumentoDeSalario
     internal class Program
     {
         static void Main(string[] args)
-        { 
+        {
 
-            double salario, reajuste;
+            double salario, reajuste, total;
             int percentual;
             const double aumento1 = 15, aumento2 = 12, aumento3 = 10, aumento4 = 7, aumento5 = 4;
 
@@ -20,8 +20,9 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento1) / 100) + salario);
                 percentual = 15;
 
-                Console.WriteLine("Novo salario: " + reajuste);
-                Console.WriteLine("Reajuste ganho: " + (reajuste - salario));
+                total = reajuste - salario;
+                Console.WriteLine("Novo salario: " + reajuste.ToString("F2") );
+                Console.WriteLine("Reajuste ganho: " + total.ToString("F2"));
                 Console.WriteLine("Em percentual: " + percentual + " %");
             }
 
@@ -30,8 +31,9 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento2) / 100) + salario);
                 percentual = 12;
 
-                Console.WriteLine("Novo salario: " + reajuste);
-                Console.WriteLine("Reajuste ganho: " + (reajuste - salario));
+                total = reajuste - salario;
+                Console.WriteLine("Novo salario: " + reajuste.ToString("F2"));
+                Console.WriteLine("Reajuste ganho: " + total.ToString("F2"));
                 Console.WriteLine("Em percentual: " + percentual + " %");
             }
 
@@ -40,8 +42,9 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento3) / 100) + salario);
                 percentual = 10;
 
-                Console.WriteLine("Novo salario: " + reajuste); 
-                Console.WriteLine("Reajuste ganho: " + (reajuste - salario));
+                total = reajuste - salario;
+                Console.WriteLine("Novo salario: " + reajuste.ToString("F2"));
+                Console.WriteLine("Reajuste ganho: " + total.ToString("F2"));
                 Console.WriteLine("Em percentual: " + percentual +  " %");
             }
 
@@ -50,8 +53,9 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento4) / 100) + salario);
                 percentual = 7;
 
-                Console.WriteLine("Novo salario: " + reajuste);
-                Console.WriteLine("Reajuste ganho: " + (reajuste - salario));
+                total = reajuste - salario;
+                Console.WriteLine("Novo salario: " + reajuste.ToString("F2"));
+                Console.WriteLine("Reajuste ganho: " + total.ToString("F2"));
                 Console.WriteLine("Em percentual: " + percentual + " %");
             }
 
@@ -60,8 +64,9 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento5) / 100) + salario);
                 percentual = 4;
 
-                Console.WriteLine("Novo salario: " + reajuste);
-                Console.WriteLine("Reajuste ganho: " + (reajuste - salario));
+                total = reajuste - salario;
+                Console.WriteLine("Novo salario: " + reajuste.ToString("F2"));
+                Console.WriteLine("Reajuste ganho: " + total.ToString("F2"));
                 Console.WriteLine("Em percentual: " + percentual + " %");
             }
 
