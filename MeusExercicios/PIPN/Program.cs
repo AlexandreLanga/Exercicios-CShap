@@ -32,10 +32,11 @@ namespace PIPN
                     negativos++;
                 }
             }
+
                 Console.WriteLine(pares + " valor(es) par(es)");
                 Console.WriteLine(impares + " valor(es) impar(es)");
                 Console.WriteLine(positivos + " valor(es) positivo(s)");
-                Console.WriteLine(negativos + " valores negativos");
+                Console.WriteLine(negativos + " valor(es) negativo(s)");
             
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\refint\ExercicioVetores.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioVetores\obj\Debug\net5.0\ref\ExercicioVetores.dll
