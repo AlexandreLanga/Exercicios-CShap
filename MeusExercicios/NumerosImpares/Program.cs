@@ -6,15 +6,15 @@ namespace NumerosImpares
     {
         static void Main(string[] args)
         {
-            double numero;
+            int numero;
 
-            Double.TryParse(Console.ReadLine(), out numero);
+            int.TryParse(Console.ReadLine(), out numero);
 
-            for (numero = 1; numero <= 1000;numero ++)
+            for (int i = 1; i <= numero; i ++)
             {
-                if (numero % 2 == 1)
+                if (i % 2 == 1)
                 {
-                    Console.WriteLine(numero);
+                    Console.WriteLine(i);
                 }
  
             }

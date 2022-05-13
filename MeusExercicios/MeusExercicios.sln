@@ -39,13 +39,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositivosEMedia", "Positivo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPN", "PIPN\PIPN.csproj", "{23644D47-F667-4224-9303-A73460D6AEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImpares", "NumerosImpares\NumerosImpares.csproj", "{B6BF560E-6DDB-4A07-980C-E8CCCDB93269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumerosImpares", "NumerosImpares\NumerosImpares.csproj", "{B6BF560E-6DDB-4A07-980C-E8CCCDB93269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorEMatriz", "VetorEMatriz\VetorEMatriz.csproj", "{946999BA-46F1-4849-AE75-1906374F4327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetorEMatriz", "VetorEMatriz\VetorEMatriz.csproj", "{946999BA-46F1-4849-AE75-1906374F4327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioVetores", "ExercicioVetores\ExercicioVetores.csproj", "{ABEA53ED-FDE3-480D-BF33-8414B1176472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioVetores", "ExercicioVetores\ExercicioVetores.csproj", "{ABEA53ED-FDE3-480D-BF33-8414B1176472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{B7DCCAC5-832A-4FF2-84F6-FB8E915A14B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz", "Matriz\Matriz.csproj", "{B7DCCAC5-832A-4FF2-84F6-FB8E915A14B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeisNumerosPares", "SeisNumerosPares\SeisNumerosPares.csproj", "{781835CE-723C-4E79-B3E8-F4828C87E5E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo2", "Intervalo2\Intervalo2.csproj", "{BA606BFE-832F-499A-A074-E8F70D55EBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadradoDePares", "QuadradoDePares\QuadradoDePares.csproj", "{7B777163-5D77-4EAE-A54F-3CA04075036A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +147,18 @@ Global
 		{B7DCCAC5-832A-4FF2-84F6-FB8E915A14B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7DCCAC5-832A-4FF2-84F6-FB8E915A14B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7DCCAC5-832A-4FF2-84F6-FB8E915A14B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781835CE-723C-4E79-B3E8-F4828C87E5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781835CE-723C-4E79-B3E8-F4828C87E5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781835CE-723C-4E79-B3E8-F4828C87E5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781835CE-723C-4E79-B3E8-F4828C87E5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA606BFE-832F-499A-A074-E8F70D55EBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA606BFE-832F-499A-A074-E8F70D55EBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA606BFE-832F-499A-A074-E8F70D55EBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA606BFE-832F-499A-A074-E8F70D55EBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B777163-5D77-4EAE-A54F-3CA04075036A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B777163-5D77-4EAE-A54F-3CA04075036A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B777163-5D77-4EAE-A54F-3CA04075036A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B777163-5D77-4EAE-A54F-3CA04075036A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
