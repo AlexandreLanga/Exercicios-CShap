@@ -123,7 +123,7 @@ namespace Matriz
             var posicoes = posicaoJogada.Split(' ');
             int.TryParse(posicoes[0], out x);
             int.TryParse(posicoes[1], out y);
-
+            
             jogo[x, y] = quemjoga;
         }
 
