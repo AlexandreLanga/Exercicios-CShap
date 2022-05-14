@@ -53,9 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intervalo2", "Intervalo2\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadradoDePares", "QuadradoDePares\QuadradoDePares.csproj", "{7B777163-5D77-4EAE-A54F-3CA04075036A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUM", "PUM\PUM.csproj", "{8FB162D8-5114-46EE-8356-3895A063AC20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PUM", "PUM\PUM.csproj", "{8FB162D8-5114-46EE-8356-3895A063AC20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primos", "Primos\Primos.csproj", "{68BFB219-CED8-411D-AD21-8606B3BB84BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primos", "Primos\Primos.csproj", "{68BFB219-CED8-411D-AD21-8606B3BB84BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampoMinado", "CampoMinado\CampoMinado.csproj", "{8CECFCFE-EEF3-42AC-9F78-C72D5640192C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{68BFB219-CED8-411D-AD21-8606B3BB84BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68BFB219-CED8-411D-AD21-8606B3BB84BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68BFB219-CED8-411D-AD21-8606B3BB84BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CECFCFE-EEF3-42AC-9F78-C72D5640192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CECFCFE-EEF3-42AC-9F78-C72D5640192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CECFCFE-EEF3-42AC-9F78-C72D5640192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CECFCFE-EEF3-42AC-9F78-C72D5640192C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
