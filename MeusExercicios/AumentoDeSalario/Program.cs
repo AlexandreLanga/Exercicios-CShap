@@ -58,7 +58,7 @@ namespace AumentoDeSalario
                 reajuste = (((salario * aumento4) / 100) + salario);
                 percentual = 7;
 
-                Console.WriteLine("Novo salario:"); Console.WriteLine(reajuste);
+                Console.WriteLine("Novo salario:"); Console.WriteLine(reajuste.ToString("F2"));
                 Console.WriteLine("Reajuste ganho:"); Console.WriteLine(reajuste - salario);
                 Console.WriteLine("Em percentual:"); Console.WriteLine(percentual + "%");
             }
