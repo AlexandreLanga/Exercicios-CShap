@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\bin\Debug\net5.0\SeisNumerosPares.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\refint\SeisNumerosPares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\SeisNumerosPares.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\SeisNumerosPares\obj\Debug\net5.0\ref\SeisNumerosPares.dll

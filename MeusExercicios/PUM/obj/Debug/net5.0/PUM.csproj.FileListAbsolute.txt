@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\bin\Debug\net5.0\PUM.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\refint\PUM.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\PUM.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\PUM\obj\Debug\net5.0\ref\PUM.dll

@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\bin\Debug\net5.0\NumerosImpares.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\refint\NumerosImpares.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\NumerosImpares.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosImpares\obj\Debug\net5.0\ref\NumerosImpares.dll

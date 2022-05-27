@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\bin\Debug\net5.0\prototipo.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\refint\prototipo.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\prototipo.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\prototipo\obj\Debug\net5.0\ref\prototipo.dll

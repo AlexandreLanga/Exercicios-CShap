@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\bin\Debug\net5.0\NumerosPositivos.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\refint\NumerosPositivos.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\NumerosPositivos.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\NumerosPositivos\obj\Debug\net5.0\ref\NumerosPositivos.dll

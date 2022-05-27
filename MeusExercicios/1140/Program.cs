@@ -6,6 +6,7 @@ namespace _1140
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             int p1, p2, p3, p4;
 
             while (true)
@@ -22,6 +23,21 @@ namespace _1140
             }
 
 
+=======
+            string frase;
+
+            frase = Console.ReadLine();
+            var vetorFrase = frase.Split(' ');
+
+
+
+
+            
+            
+
+
+           
+>>>>>>> 34a34728dff60a63698167d664ff4d0e820e0f83
         }
     }
 }
