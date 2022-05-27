@@ -1,0 +1,16 @@
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.exe
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.deps.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.runtimeconfig.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.runtimeconfig.dev.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\bin\Debug\net5.0\103.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.csproj.AssemblyReference.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.AssemblyInfoInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.AssemblyInfo.cs
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.csproj.CoreCompileInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\refint\103.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\103.genruntimeconfig.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\103\obj\Debug\net5.0\ref\103.dll
