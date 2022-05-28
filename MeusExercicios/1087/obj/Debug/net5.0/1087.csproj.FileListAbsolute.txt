@@ -1,0 +1,16 @@
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.exe
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.deps.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.runtimeconfig.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.runtimeconfig.dev.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\bin\Debug\net5.0\1087.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.csproj.AssemblyReference.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.AssemblyInfoInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.AssemblyInfo.cs
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.csproj.CoreCompileInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\refint\1087.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\1087.genruntimeconfig.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\1087\obj\Debug\net5.0\ref\1087.dll

@@ -1,0 +1,16 @@
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.exe
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.deps.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.runtimeconfig.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.runtimeconfig.dev.json
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\bin\Debug\net5.0\2900.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.csproj.AssemblyReference.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.AssemblyInfoInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.AssemblyInfo.cs
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.csproj.CoreCompileInputs.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\refint\2900.dll
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.pdb
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\2900.genruntimeconfig.cache
+C:\Users\PC\Exercicios-CShap\MeusExercicios\2900\obj\Debug\net5.0\ref\2900.dll
