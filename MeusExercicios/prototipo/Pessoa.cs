@@ -1,12 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace prototipo
 {
-    internal class Pessoa
+    public class Pessoa
     {
+        public string nome;
+        public string sobrenome;
+        public int idade;
+        
+        public void ExibirNomeCompleto()
+        {
+            Console.WriteLine($"{nome} {sobrenome}");
+        }
     }
 }

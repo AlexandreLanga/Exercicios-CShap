@@ -6,28 +6,70 @@ namespace prototipo
     {
         static void Main(string[] args)
         {
-            //pessoa Um
-            string nomePessoaUm = Console.ReadLine();
-            string sobrenomePessoaUm = Console.ReadLine();
-            int idadePessoaUm = int.Parse(Console.ReadLine());
+            //Aqui cria as pessoas sem utilizar as classes
+            CriarPessoasSemClasse();
 
-            Console.WriteLine($"{nomePessoaUm} {sobrenomePessoaUm}");
+            //Aqui cria as pessoas sem utilizar as classes
+            CriarPessoasComClasse();
+        }
+        static void CriarPessoasComClasse()
+        {
+            //Criando a pessoa um com classe
+            Pessoa pessoaUm = new Pessoa();
 
-            //pessoa dois
-            string nomePessoaDois = Console.ReadLine();
-            string sobrenomePessoasDois = Console.ReadLine();
-            long idadePessoaDois = int.Parse(Console.ReadLine());
+            //Atribuindo valores para os atributos da pessoa um
+            pessoaUm.nome = Console.ReadLine();
+            pessoaUm.sobrenome = Console.ReadLine();
+            pessoaUm.idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{nomePessoaDois}{sobrenomePessoasDois}");
+            //Chamando o método para exibir o nome completo da pessoa um
+            pessoaUm.ExibirNomeCompleto();
 
-            //pessoa tres
-            string nomePessoaTres = Console.ReadLine();
-            string sobrenomePessoaTres = Console.ReadLine();
-
-            Console.WriteLine($"{nomePessoaTres}{sobrenomePessoaTres}");
+            //pessoa cinco
+            Pessoa pessoaDois = new Pessoa();
+            pessoaDois.nome = Console.ReadLine();
+            pessoaDois.sobrenome = Console.ReadLine();
+            pessoaDois.ExibirNomeCompleto();
 
             Console.ReadKey();
         }
 
+        static void CriarPessoasSemClasse()
+        {
+            //Criando a pessoa um
+            string nomePessoaUm = "Leonardo";
+            string sobrenomePessoaUm = "Silva";
+            int idadePessoaUm = 18;
+
+            //Exibindo o nome completo da pessoa um
+            Console.WriteLine($"{nomePessoaUm} {sobrenomePessoaUm}");
+            //Exibindo a faixa de idade da pessoa um
+            if (idadePessoaUm >= 18)
+                Console.WriteLine($"Maior de idade");
+            else
+                Console.WriteLine($"De menor");
+
+            //Criando a pessoa dois
+            string nomePessoaDois = "José";
+            string sobrenomePessoasDois = "Machado";
+            long idadePessoaDois = 18;
+
+            //Exibindo o nome completo da pessoa dois
+            Console.WriteLine($"{nomePessoaDois} {sobrenomePessoasDois}");
+
+            //Exibindo a faixa da pessoa dois
+            if (idadePessoaDois > 18)
+                Console.WriteLine("Maior de idade");
+            else
+                Console.WriteLine("De menor");
+
+            //Criando a pessoa tres
+            string nomePessoaTres = "Pedro";
+            string sobrenomePessoaTres = "Soares";
+
+            //Exibindo nome completo da pessoa três
+            Console.WriteLine($"{nomePessoaTres} {sobrenomePessoaTres}");
+            //Não contem faixa
+        }
     }
 }

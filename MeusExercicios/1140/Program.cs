@@ -6,19 +6,25 @@ namespace _1140
     {
         static void Main(string[] args)
         {
-            string frase;
+            string frase = "";
+            char primL;
 
-            frase = Console.ReadLine();
-            var vetorFrase = frase.Split(' ');
+            while (true)
+            {
+                frase = Console.ReadLine();
+
+                if (frase == "*")
+                    break;
+
+               var linha = frase.Split(' ');
+                frase = frase.ToUpper();
+
+                primL = frase[0];
+                
 
 
-
-
-            
-            
-
-
-           
+               
+            }
         }
     }
 }
