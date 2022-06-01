@@ -11,6 +11,11 @@ namespace prototipo
 
             //Aqui cria as pessoas sem utilizar as classes
             CriarPessoasComClasse();
+
+            //Aqui imprime a faixa etária
+            
+
+            Console.ReadKey();
         }
         static void CriarPessoasComClasse()
         {
@@ -22,6 +27,8 @@ namespace prototipo
             pessoaUm.sobrenome = Console.ReadLine();
             pessoaUm.idade = int.Parse(Console.ReadLine());
 
+            pessoaUm.ImprimirFaixa();
+
             //Chamando o método para exibir o nome completo da pessoa um
             pessoaUm.ExibirNomeCompleto();
 
@@ -30,6 +37,8 @@ namespace prototipo
             pessoaDois.nome = Console.ReadLine();
             pessoaDois.sobrenome = Console.ReadLine();
             pessoaDois.ExibirNomeCompleto();
+
+            pessoaDois.ImprimirFaixa();
 
             Console.ReadKey();
         }

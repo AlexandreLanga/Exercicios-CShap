@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\bin\Debug\net5.0\ExercicioFrota.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\refint\ExercicioFrota.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ExercicioFrota.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\ExercicioFrota\obj\Debug\net5.0\ref\ExercicioFrota.dll

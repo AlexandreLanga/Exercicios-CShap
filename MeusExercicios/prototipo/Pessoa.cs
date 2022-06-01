@@ -12,5 +12,17 @@ namespace prototipo
         {
             Console.WriteLine($"{nome} {sobrenome}");
         }
+
+        public void ImprimirFaixa()
+
+            {
+            if (idade >= 18)
+                Console.WriteLine($"Maior de idade");
+            else if (idade == 0)
+                Console.WriteLine("Idade não informada");
+            else
+                Console.WriteLine($"De menor");
+            }
+          
     }
 }

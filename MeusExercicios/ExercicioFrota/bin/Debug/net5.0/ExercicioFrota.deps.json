@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioFrota/1.0.0": {
+        "runtime": {
+          "ExercicioFrota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFrota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wQjAIB20pf3ZJAnstX8dJ3wbnmfhCffMHdSkZdre9QKW7cF9RmD9htfvh3YTnLa2KMb3dYwzzN7koyq6jU/nmg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Exercicios-CShap\\MeusExercicios\\1140\\1140.csproj",
-=======
   "dgSpecHash": "Kv97wkCuyVgCrjXmIxNFJlRog7t6gUamqwGecHfh9WNYUus3+tkGtMARmlOB6aktTBMJJxYs2kLQU8ZwgA/09g==",
   "success": true,
   "projectFilePath": "C:\\Users\\guest03\\Exercicios-CShap\\MeusExercicios\\1140\\1140.csproj",
->>>>>>> 34a34728dff60a63698167d664ff4d0e820e0f83
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\guest03\\Exercicios-CShap\\MeusExercicios\\1140\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
