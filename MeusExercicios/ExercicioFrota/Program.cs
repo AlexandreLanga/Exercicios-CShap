@@ -15,7 +15,7 @@ namespace ExercicioFrota
             Console.WriteLine("Digite seu sobrenome");
             motorista.sobrenome = Console.ReadLine();
 
-            motorista.ObterNomeCompleto();
+            Console.WriteLine(motorista.ObterNomeCompleto(motorista.nome, motorista.sobrenome));
 
             Veiculos veiculo = new Veiculos();
 
@@ -26,7 +26,6 @@ namespace ExercicioFrota
             Console.WriteLine("Digite o seu modelo");
             veiculo.modelo = Console.ReadLine();
 
-            veiculo.ObterDescrição(veiculo.placa,veiculo.modelo);
             Console.WriteLine(veiculo.ObterDescrição(veiculo.placa, veiculo.modelo));
             Console.ReadKey();
         }

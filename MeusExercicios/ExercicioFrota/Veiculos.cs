@@ -8,8 +8,7 @@ namespace ExercicioFrota
 
         public string ObterDescrição(string placa, string modelo)
         {
-            string carro = modelo + "("+placa+")";
-            return carro;
+            return modelo + "(" + placa + ")";
         }
     }
 }

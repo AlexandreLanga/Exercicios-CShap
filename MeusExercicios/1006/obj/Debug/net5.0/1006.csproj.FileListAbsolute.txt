@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\bin\Debug\net5.0\1006.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\refint\1006.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\1006.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\1006\obj\Debug\net5.0\ref\1006.dll
