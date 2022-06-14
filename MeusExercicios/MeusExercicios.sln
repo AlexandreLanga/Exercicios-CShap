@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prototipo", "prototipo\prot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioFrota", "ExercicioFrota\ExercicioFrota.csproj", "{41FC8229-AE16-48EB-ABE4-66A7EED8B763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{91C6EAAC-4A70-40D1-A3E4-ADF1B87D3524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{91C6EAAC-4A70-40D1-A3E4-ADF1B87D3524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{49CC1003-1AB5-4173-82F1-D746BEC73B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{91C6EAAC-4A70-40D1-A3E4-ADF1B87D3524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91C6EAAC-4A70-40D1-A3E4-ADF1B87D3524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91C6EAAC-4A70-40D1-A3E4-ADF1B87D3524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CC1003-1AB5-4173-82F1-D746BEC73B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CC1003-1AB5-4173-82F1-D746BEC73B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CC1003-1AB5-4173-82F1-D746BEC73B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CC1003-1AB5-4173-82F1-D746BEC73B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
