@@ -19,11 +19,11 @@ namespace OrientacaoObjetos
                 Console.WriteLine("(4) Desligar veiculo");
                 Console.WriteLine("(5) Ligar veiculo");
                 Console.WriteLine("(10) Sair do programa");
-                int.TryParse(Console.ReadLine(), out funcao);  
+                int.TryParse(Console.ReadLine(), out funcao); 
 
                 if (funcao == 1)
                 {
-                    
+
                 }
                 if (funcao == 2)
                 {
@@ -39,12 +39,16 @@ namespace OrientacaoObjetos
                 }
                 if (funcao == 5)
                 {
-
+                    
                 }
                 if (funcao == 10)
                 {
-
+                    Console.WriteLine("Espero ver você novamente!");
+                    Console.ReadKey();
+                    break;
                 }
+                else
+                    Console.WriteLine("Funcão não reconhecida! Digite uma função válida!");
             } while (funcao != 10);
         }
     }

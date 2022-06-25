@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace OrientacaoObjetos
 {
-    internal class Veiculo
+    public class Veiculo
     {
         public int VelocidadeAtual { get; set; }
 
-        private bool CarroLigando;
+        private bool _CarroLigando;
 
         private void FreiarVeiculo()
         {
@@ -19,30 +19,28 @@ namespace OrientacaoObjetos
             
         public void LigarVeiculo()
         {
-            CarroLigando = true;
+            _CarroLigando = true;
         }
 
         public void DesligarVeiculo()
         {
-            if (VelocidadeAtual == 0)
-            {
+            if (VelocidadeAtual > 0)
                 FreiarVeiculo();
-                CarroLigando = false;
-            }
+
+            _CarroLigando = false;
         }
 
         public bool VeiculoEsta()
         {
-            return CarroLigando;
+            return _CarroLigando;
         }
 
-        public int AcelerarVeiculo(int acelerar)
+        public void AcelerarVeiculo(int acelerar)
         {
-            if (VelocidadeAtual <= 100)
+            if (_CarroLigando && (VelocidadeAtual <= 100))
             {
                 VelocidadeAtual = acelerar;
             }
-            return VelocidadeAtual;
         }
     }
 }
