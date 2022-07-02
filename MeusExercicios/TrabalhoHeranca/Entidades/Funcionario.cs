@@ -4,26 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace TrabalhoHeranca
 {
-    public abstract class Pessoa
+    public class Funcionario
     {
-        public string CPF { get; set; }
+        public string Numero { get; set; }
 
         public string Nome { get; set; }
 
         public string Sobrenome { get; set; }
+
+        public double Salario { get; set; }
 
         public virtual string ObterNomeCompleto()
         {
             return $"{Nome} {Sobrenome}";
         }
 
-        public Pessoa()
-        {
-            System.Console.WriteLine("Construiu a pessoa!");
-        }
-
-        public abstract string ObterProfissao();
     }
 }

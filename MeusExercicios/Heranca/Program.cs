@@ -6,11 +6,21 @@ namespace Heranca
     {
         static void Main(string[] args)
         {
-            Aluno aluno = CriarAluno();
-            Professor professor = CriarProfessor();
+            int tipo;
+            Console.WriteLine("Informe o tipo de pessoa:");
+            Console.WriteLine();
+            Console.WriteLine("(1) Aluno");
+            Console.WriteLine("(2) Professor");
+            Console.WriteLine("(3) Diretor");
+            Console.WriteLine();
+            Console.WriteLine("Informe o tipo");
 
-            Console.WriteLine(aluno.ObterNomeCompleto());
-            Console.WriteLine(professor.ObterNomeCompleto());
+            int.TryParse(Console.ReadLine(), out tipo);
+
+            Pessoa pessoa = CriarPessoa(tipo);
+
+            ExibirNomeCompleto(pessoa);
+
             Console.ReadKey();
         }
 
@@ -20,6 +30,20 @@ namespace Heranca
 
             if(pessoa.GetType() == typeof(Professor))
                 Console.WriteLine(((Professor)pessoa).NumeroFuncionario);
+        }
+
+        public static Pessoa CriarPessoa(int tipo)
+        {
+            if (tipo == 1)
+                return CriarAluno();
+
+            if (tipo == 2)
+                return CriarProfessor();
+
+            if (tipo == 3)
+                return CriarDiretor();
+
+            return null; 
         }
 
         public static Aluno CriarAluno()
@@ -36,13 +60,27 @@ namespace Heranca
 
         public static Professor CriarProfessor()
         {
-            return new Professor()
+            return new Professor("1234")
             {
                 CPF = "999.999.999-99",
                 Nome = "Maria",
                 Sobrenome = "Rocha",
                 NumeroFuncionario = "1234",
-                Salario = 1000.50m
+                Salario = 1000.50m,
+                Curso = "Programação",
+            };
+        }
+
+        public static Diretor CriarDiretor()
+        {
+            return new Diretor("5678")
+            {
+                CPF = "123.654.789-25",
+                Nome = "Matheus",
+                Sobrenome = "Vieira",
+                Salario = 5000.00m,
+                Area = "Programção",
+                NumeroFuncionario = "5678",
             };
         }
     }

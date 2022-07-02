@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{49CC1003-1AB5-4173-82F1-D746BEC73B87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{BB6B5BF7-C3AC-416E-97D3-6C03C89D8DED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{BB6B5BF7-C3AC-416E-97D3-6C03C89D8DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoHeranca", "TrabalhoHeranca\TrabalhoHeranca.csproj", "{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{BB6B5BF7-C3AC-416E-97D3-6C03C89D8DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6B5BF7-C3AC-416E-97D3-6C03C89D8DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6B5BF7-C3AC-416E-97D3-6C03C89D8DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

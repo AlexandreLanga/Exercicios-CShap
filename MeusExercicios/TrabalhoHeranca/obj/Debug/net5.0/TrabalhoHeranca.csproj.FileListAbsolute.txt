@@ -1,0 +1,16 @@
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.exe
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.deps.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.runtimeconfig.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.runtimeconfig.dev.json
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\bin\Debug\net5.0\TrabalhoHeranca.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.csproj.AssemblyReference.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.AssemblyInfoInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.AssemblyInfo.cs
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\refint\TrabalhoHeranca.dll
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.pdb
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\TrabalhoHeranca.genruntimeconfig.cache
+C:\Users\guest03\Exercicios-CShap\MeusExercicios\TrabalhoHeranca\obj\Debug\net5.0\ref\TrabalhoHeranca.dll

@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    internal class Class1
+    public class Diretor : Funcionario
     {
+        public string Area { get; set; }
+
+        public Diretor(string numeroFuncionario) : base(numeroFuncionario)
+        {
+            System.Console.WriteLine("Construiu o diretor!");
+        }
+
+        public override string ObterProfissao()
+        {
+            return "Diretor";
+        }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca
+namespace TrabalhoHeranca
 {
     public class Professor : Funcionario
     {
@@ -12,12 +12,7 @@ namespace Heranca
 
         public override string ObterNomeCompleto()
         {
-            return $"" +
-                $"{NumeroFuncionario} - {base.ObterNomeCompleto()}";
-        }
-        public Professor(string numeroFuncionario) : base (numeroFuncionario)
-        {
-            System.Console.WriteLine("Construiu o professor!");
+            return $"O nome de seu professor atual é: {base.ObterNomeCompleto()}";
         }
     }
 }
