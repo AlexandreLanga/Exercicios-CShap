@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace TrabalhoHeranca.Serviços
 {
-    internal class Funcionario
+    public abstract class Funcionario
     {
-
+        public string ObterNomeCompleto()
+        {
+            return $"{}";
+        }
     }
 }

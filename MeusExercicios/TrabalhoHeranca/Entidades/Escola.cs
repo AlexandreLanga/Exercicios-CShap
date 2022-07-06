@@ -21,5 +21,11 @@ namespace TrabalhoHeranca
             return $"{Nome} {Sobrenome}";
         }
 
+        public virtual double ObterPercentualReajuste(double percentual)
+        {
+            percentual = percentual / 100;
+            Salario = percentual / 100;
+            return Salario;
+        }
     }
 }

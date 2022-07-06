@@ -13,5 +13,12 @@ namespace TrabalhoHeranca
             return $"O nome de seu diretor atual é : {base.ObterNomeCompleto()}";
         }
 
+        public override double ObterPercentualReajuste(double percentual)
+        {
+            percentual = 30 / 100;
+            Salario = Salario + (percentual * Salario);
+            return Salario;
+        }
+
     }
 }
