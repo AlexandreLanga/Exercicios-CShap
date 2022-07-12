@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace TrabalhoHeranca.Serviços
 {
-    public abstract class Funcionario
+    internal class Funcionario
     {
-        public string ObterNomeCompleto()
+        public int percentual;
+
+        public int ReajustarDiretor()
         {
-            return $"{}";
+            return percentual;
         }
+
     }
 }

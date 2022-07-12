@@ -52,6 +52,7 @@ namespace TrabalhoHeranca
             Console.WriteLine(professor.Nome);
             Console.WriteLine(professor.Sobrenome);
             Console.WriteLine(professor.Salario);
+            Console.WriteLine(professor.Curso);
         }
 
         public static void ExibirDiretor(Diretor diretor)
@@ -60,6 +61,9 @@ namespace TrabalhoHeranca
             Console.WriteLine(diretor.Nome);
             Console.WriteLine(diretor.Sobrenome);
             Console.WriteLine(diretor.Salario);
+
         }
+
+        
     }
 }

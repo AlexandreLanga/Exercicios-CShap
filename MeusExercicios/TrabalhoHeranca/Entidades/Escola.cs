@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrabalhoHeranca
 {
-    public class Funcionario
+    public abstract class Escola
     {
         public string Numero { get; set; }
 
@@ -23,9 +23,7 @@ namespace TrabalhoHeranca
 
         public virtual double ObterPercentualReajuste(double percentual)
         {
-            percentual = percentual / 100;
-            Salario = percentual / 100;
-            return Salario;
+            return percentual;
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrabalhoHeranca
 {
-    public class Professor : Funcionario
+    public class Professor : Escola
     {
         public string Curso { get; set; }
 
@@ -17,9 +17,7 @@ namespace TrabalhoHeranca
 
         public override double ObterPercentualReajuste(double percentual)
         {
-            percentual = 20 / 100;
-            Salario = Salario + (percentual * Salario);
-            return Salario;
+            return 20;
         }
 
     }

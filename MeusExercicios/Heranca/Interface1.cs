@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    internal interface Interface1
+    public interface IPessoa
     {
+        string ObterNomeComProfissao();
     }
 }

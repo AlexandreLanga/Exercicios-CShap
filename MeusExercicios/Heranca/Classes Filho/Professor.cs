@@ -6,18 +6,23 @@ using System.Threading.Tasks;
 
 namespace Heranca
 {
-    public class Professor : Funcionario
+    public class Professor : Funcionario, IPessoa
     {
         public string Curso { get; set; }
 
-        public override string ObterNomeCompleto()
+        public override string ObterProfissao()
         {
-            return $"" +
-                $"{NumeroFuncionario} - {base.ObterNomeCompleto()}";
+            return "Professor";
         }
+
         public Professor(string numeroFuncionario) : base (numeroFuncionario)
         {
             System.Console.WriteLine("Construiu o professor!");
+        }
+
+        public string ObterNomeComProfissao()
+        {
+            return $"{Nome} - {ObterProfissao()}";
         }
     }
 }
