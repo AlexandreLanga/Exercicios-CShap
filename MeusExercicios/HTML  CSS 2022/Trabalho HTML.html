@@ -1,0 +1,62 @@
+<!DOCTYPE Html>
+<html>
+<head>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        table {
+            border-spacing: 25px;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <table style="width:100%">
+            <caption style="text-align:center;"> Meu Perfil do Instagram</caption>
+            <tr>
+
+                <th> <a href="index.html"> Pagina Inicial</a></th>
+                <th> <a href="MeuPerfil.html"> Meu Perfil</a></th>
+                <th> <a href="MinhasFotos.html">Minhas Fotos</a></th>
+                <th> <a href="Confg.html">Configurações</a></th>
+                <th rowspan="10"><img src="Vazio.JPG" height="200" width="200"</th>
+
+            </tr>
+            <tr>
+                <td>
+                    <form action="/action_page.php">
+                        <label for="fname">Nome</label><br />
+                        <input type="text" id="fname" value="Alexandre"<br />
+                        <label for="lname">Sobrenome</label><br />
+                        <input type="text" id="lname" name="lname" value="Langa"<br /><br />
+                        <p>Sexo:</p>
+                        <input type="radio" id="masc" name="sexo" value="MASC" />
+                        <label for="masc">Masculino</label><br />
+                        <input type="radio" id="fem" name="sexo" value="FEM"
+                        <label for="fem">Feminino</label><br />
+                        <br />
+                        <input type="checkbox" id="older18" name="older18" value="18" />
+                        <label for="older18">Possuo mais de 18 anos.</label>
+                        <br />
+
+                        <label for="city">Cidade</label>
+                        <select id="city" name="city">
+                            <option value="cco">Chapecó</option>
+                            <option value="Florianopolis">Florianópolis</option>
+                            <option value="xaxim">Xaxim</option>
+                            <option value="xanxere">Xanxêre</option>
+                        </select>
+                        <br /><br />
+                        <input type="submit" value="Confirmar" />
+                    </form>
+                    <p>Ao clicar no botão Confirmar o evento do atributo 'action' será adicionado.</p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+
+
+</html>
