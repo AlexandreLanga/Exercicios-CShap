@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhoHeranca", "TrabalhoHeranca\TrabalhoHeranca.csproj", "{C156A1D0-956D-4F4B-BFC1-D55AA29E14E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoStringBuilder", "ProjetoStringBuilder\ProjetoStringBuilder.csproj", "{E64801D5-34F8-425A-BFC0-73C73FF23B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoStringBuilder", "ProjetoStringBuilder\ProjetoStringBuilder.csproj", "{E64801D5-34F8-425A-BFC0-73C73FF23B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoFinal", "TrabalhoFinal\TrabalhoFinal.csproj", "{1122DD3A-C2C5-4F7F-991A-A945098ACE5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{E64801D5-34F8-425A-BFC0-73C73FF23B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64801D5-34F8-425A-BFC0-73C73FF23B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64801D5-34F8-425A-BFC0-73C73FF23B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1122DD3A-C2C5-4F7F-991A-A945098ACE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1122DD3A-C2C5-4F7F-991A-A945098ACE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1122DD3A-C2C5-4F7F-991A-A945098ACE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1122DD3A-C2C5-4F7F-991A-A945098ACE5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
